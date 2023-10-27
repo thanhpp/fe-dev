@@ -1,0 +1,19 @@
+body h1 {
+    color: hotpink;
+    border-bottom: 10px dotted purple;
+}
+
+body h2 {
+    font-style: italic;
+}
+
+body ul {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body a:hover {
+    color: blue;
+}
